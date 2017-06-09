@@ -122,5 +122,4 @@
     <preference name="AutoHideSplashScreen" value="false" />
     <preference name="WindowsStorePublisherName" value="West Weedtze Development - Michael Humann" />
     <preference name="WindowsStoreIdentityName" value="17701WestWeedtzeDevelopme.DMN" />
-    <preference name="windows-target-version" value="8.1" />
 </widget>
